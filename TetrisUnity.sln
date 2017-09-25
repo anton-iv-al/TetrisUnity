@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisUnity", "Assembly-CSharp.csproj", "{0012D882-2468-C65A-BB1C-E0DDB80832C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisUnity", "Assembly-CSharp-Editor.csproj", "{FB3AE671-59C5-8958-E6CD-8DDC36E0C82C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0012D882-2468-C65A-BB1C-E0DDB80832C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0012D882-2468-C65A-BB1C-E0DDB80832C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0012D882-2468-C65A-BB1C-E0DDB80832C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0012D882-2468-C65A-BB1C-E0DDB80832C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3AE671-59C5-8958-E6CD-8DDC36E0C82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3AE671-59C5-8958-E6CD-8DDC36E0C82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3AE671-59C5-8958-E6CD-8DDC36E0C82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3AE671-59C5-8958-E6CD-8DDC36E0C82C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
